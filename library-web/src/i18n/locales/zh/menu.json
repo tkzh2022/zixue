@@ -1,0 +1,12 @@
+{
+  "dashboard": "控制台",
+  "catalog": "图书目录",
+  "books": "图书管理",
+  "readers": "读者管理",
+  "borrowings": "借阅管理",
+  "fines": "罚款管理",
+  "rules": "借阅规则",
+  "myBorrowings": "我的借阅",
+  "myFines": "我的罚款",
+  "settings": "系统设置"
+}

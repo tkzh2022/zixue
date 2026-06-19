@@ -1,0 +1,12 @@
+{
+  "dashboard": "Dashboard",
+  "catalog": "Catalog",
+  "books": "Book Management",
+  "readers": "Reader Management",
+  "borrowings": "Borrow Management",
+  "fines": "Fine Management",
+  "rules": "Borrow Rules",
+  "myBorrowings": "My Borrows",
+  "myFines": "My Fines",
+  "settings": "Settings"
+}

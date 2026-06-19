@@ -1,0 +1,15 @@
+{
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "save": "Save",
+  "delete": "Delete",
+  "edit": "Edit",
+  "search": "Search",
+  "reset": "Reset",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "language": "Language",
+  "success": "Success",
+  "loading": "Loading..."
+}

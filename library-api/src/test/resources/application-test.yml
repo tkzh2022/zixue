@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  flyway:
+    enabled: true
+
+library:
+  jwt:
+    secret: test-secret-test-secret-test-secret-must-be-32-bytes
